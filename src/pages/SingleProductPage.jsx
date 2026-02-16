@@ -94,8 +94,7 @@ const SingleProductPage = () => {
                             <h1 className="sp-hero__title">
                                 {product.slug === 'google-maps-mastery' ? (
                                     <>
-                                        Kuasai <span className="text-secondary">Peringkat #1 Google Maps</span> <br />
-                                        & Jangkau 10.000+ Calon Pelanggan!
+                                        Dominasi Pencarian Lokal Menggunakan Google Maps di Halaman #1 Google
                                     </>
                                 ) : product.slug === 'threads-mastery' ? (
                                     <>
@@ -124,7 +123,7 @@ const SingleProductPage = () => {
 
                             <p className="sp-hero__subtitle">
                                 {product.slug === 'google-maps-mastery'
-                                    ? "Rahasia Terbukti Mendominasi Pencarian Lokal Agar Toko Fisikmu Diserbu Ribuan Pelanggan Secara Otomatis Tanpa Perlu Iklan Jutaan Rupiah!"
+                                    ? "Rahasia Mendominasi Pencarian Lokal Agar Google Maps Tampil Diposisi Teratas Google, Potensi Menjangkau Ribuan Calon Customer Potensial!"
                                     : product.slug === 'threads-mastery'
                                         ? "Strategi rahasia memenangkan algoritma Threads untuk membangun akun yang potensial dan menghasilkan."
                                         : product.slug === 'facebook-pro-mastery'
@@ -168,7 +167,7 @@ const SingleProductPage = () => {
                                             <div className="ranking-item active">
                                                 <div className="rank">1</div>
                                                 <div className="info">
-                                                    <div className="name">Bengkel Anda (Optimized)</div>
+                                                    <div className="name">Bengkel Anda</div>
                                                     <div className="stars">⭐⭐⭐⭐⭐ <span>(1,240)</span></div>
                                                     <div className="status">Buka • Tutup 21.00</div>
                                                 </div>
