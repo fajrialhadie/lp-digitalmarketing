@@ -1,0 +1,33 @@
+name: 🚀 Build & Deploy Vite App
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  web-deploy:
+    name: 🎉 Build & Upload
+    runs-on: ubuntu-latest
+    steps:
+    - name: 🚚 Ambil kode terbaru
+      uses: actions/checkout@v4
+
+    - name: 🟢 Setup Node.js (Siapkan Dapur)
+      uses: actions/setup-node@v4
+      with:
+        node-version: '18' # Versi Node yang umum dipakai
+
+    - name: 📦 Install & Build (Mulai Memasak)
+      run: |
+        npm install
+        npm run build
+
+    - name: 📂 Kirim Hasil Masakan ke cPanel
+      uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+      with:
+        server: ${{ secrets.FTP_SERVER }}
+        username: ${{ secrets.FTP_USERNAME }}
+        password: ${{ secrets.FTP_PASSWORD }}
+        server-dir: ./      # Upload ke root hosting
+        local-dir: ./dist/  # PENTING: Hanya upload folder 'dist' (hasil masakan)
