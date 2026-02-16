@@ -94,7 +94,7 @@ const SingleProductPage = () => {
                             <h1 className="sp-hero__title">
                                 {product.slug === 'google-maps-mastery' ? (
                                     <>
-                                        Dominasi Pencarian Lokal Menggunakan Google Maps di Halaman #1 Google
+                                        Dominasi Pencarian Lokal Menggunakan Google Maps di Halaman <span className="text-secondary">#1 Google</span>
                                     </>
                                 ) : product.slug === 'threads-mastery' ? (
                                     <>
@@ -177,14 +177,16 @@ const SingleProductPage = () => {
                                                 <div className="rank">2</div>
                                                 <div className="info">
                                                     <div className="name">Kompetitor A</div>
-                                                    <div className="stars">⭐⭐⭐⭐ <span>(84)</span></div>
+                                                    <div className="stars">⭐⭐⭐ <span>(34)</span></div>
+                                                    <div className="status">Tutup 17.00</div>
                                                 </div>
                                             </div>
                                             <div className="ranking-item">
                                                 <div className="rank">3</div>
                                                 <div className="info">
                                                     <div className="name">Kompetitor B</div>
-                                                    <div className="stars">⭐⭐⭐ <span>(42)</span></div>
+                                                    <div className="stars">⭐⭐ <span>(47)</span></div>
+                                                    <div className="status">Tutup 20.00</div>
                                                 </div>
                                             </div>
                                         </div>
