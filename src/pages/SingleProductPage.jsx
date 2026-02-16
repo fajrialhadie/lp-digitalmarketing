@@ -94,8 +94,8 @@ const SingleProductPage = () => {
                             <h1 className="sp-hero__title">
                                 {product.slug === 'google-maps-mastery' ? (
                                     <>
-                                        Banjir Orderan Dengan <br />
-                                        <span className="text-secondary">Google Maps Mastery</span>
+                                        Kuasai <span className="text-secondary">Peringkat #1 Google Maps</span> <br />
+                                        & Jangkau 10.000+ Calon Pelanggan!
                                     </>
                                 ) : product.slug === 'threads-mastery' ? (
                                     <>
@@ -124,7 +124,7 @@ const SingleProductPage = () => {
 
                             <p className="sp-hero__subtitle">
                                 {product.slug === 'google-maps-mastery'
-                                    ? "Strategi 'curang' agar toko fisikmu muncul di urutan teratas pencarian lokal tanpa harus bayar iklan jutaan rupiah."
+                                    ? "Rahasia Terbukti Mendominasi Pencarian Lokal Agar Toko Fisikmu Diserbu Ribuan Pelanggan Secara Otomatis Tanpa Perlu Iklan Jutaan Rupiah!"
                                     : product.slug === 'threads-mastery'
                                         ? "Strategi rahasia memenangkan algoritma Threads untuk membangun akun yang potensial dan menghasilkan."
                                         : product.slug === 'facebook-pro-mastery'
