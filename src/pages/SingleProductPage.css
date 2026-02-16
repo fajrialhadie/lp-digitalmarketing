@@ -823,6 +823,22 @@
     margin-top: 0.2rem;
 }
 
+.ranking-item .status {
+    font-size: 0.8rem;
+    color: #64748b;
+    margin-top: 4px;
+}
+
+.ranking-item .status .status-open {
+    color: #10b981;
+    font-weight: 700;
+}
+
+.ranking-item .status .status-closed {
+    color: #ef4444;
+    font-weight: 700;
+}
+
 .action-icons {
     display: flex;
     gap: 0.5rem;

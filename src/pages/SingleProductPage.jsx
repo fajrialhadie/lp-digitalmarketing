@@ -94,7 +94,7 @@ const SingleProductPage = () => {
                             <h1 className="sp-hero__title">
                                 {product.slug === 'google-maps-mastery' ? (
                                     <>
-                                        Dominasi Pencarian Lokal Menggunakan Google Maps di Halaman <span className="text-secondary">#1 Google</span>
+                                        <span className="text-gradient">Dominasi Pencarian Lokal</span> Menggunakan Google Maps di <span className="text-gradient">Halaman #1 Google</span>
                                     </>
                                 ) : product.slug === 'threads-mastery' ? (
                                     <>
@@ -169,7 +169,7 @@ const SingleProductPage = () => {
                                                 <div className="info">
                                                     <div className="name">Bengkel Anda</div>
                                                     <div className="stars">⭐⭐⭐⭐⭐ <span>(1,240)</span></div>
-                                                    <div className="status">Buka • Tutup 21.00</div>
+                                                    <div className="status"><span className="status-open">Open</span> · Closes 10.00 pm</div>
                                                 </div>
                                                 <div className="action-icons">📞 🗺️</div>
                                             </div>
@@ -178,7 +178,7 @@ const SingleProductPage = () => {
                                                 <div className="info">
                                                     <div className="name">Kompetitor A</div>
                                                     <div className="stars">⭐⭐⭐ <span>(34)</span></div>
-                                                    <div className="status">Tutup 17.00</div>
+                                                    <div className="status"><span className="status-closed">Closed</span> · Opens 8.00 am Tue</div>
                                                 </div>
                                             </div>
                                             <div className="ranking-item">
@@ -186,7 +186,7 @@ const SingleProductPage = () => {
                                                 <div className="info">
                                                     <div className="name">Kompetitor B</div>
                                                     <div className="stars">⭐⭐ <span>(47)</span></div>
-                                                    <div className="status">Tutup 20.00</div>
+                                                    <div className="status"><span className="status-closed">Closed</span> · Opens 8.00 am Tue</div>
                                                 </div>
                                             </div>
                                         </div>
@@ -367,7 +367,7 @@ const SingleProductPage = () => {
                         <div className="sp-hero__stats--fb">
                             <div className="trust-banner">
                                 <span className="icon">📍</span>
-                                <span className="text">Dominasi <strong>Peringkat #1</strong> di Pencarian Lokal & Dapatkan <strong>10K+ Impression</strong> Setiap Bulan</span>
+                                <span className="text">Dominasi <strong>Peringkat #1</strong> di Pencarian Lokal & Dapatkan <strong>Calon Customer Potensial</strong> untuk Bisnis Anda!</span>
                             </div>
                         </div>
                     )}
