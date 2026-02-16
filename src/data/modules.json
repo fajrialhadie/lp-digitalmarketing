@@ -1,0 +1,1016 @@
+{
+    "modules": [
+        {
+            "id": 1,
+            "slug": "mediagram-mastery",
+            "level": "Expert",
+            "instructor": {
+                "name": "Tatiana Kenter",
+                "avatar": "https://i.pravatar.cc/150?u=Tatiana"
+            },
+            "category": "Social Media",
+            "tag": "🔥 Best Seller",
+            "tagColor": "#2563eb",
+            "title": "Mediagram Mastery: Dapatin 5K+ Followers dalam 90 Hari secara Organik",
+            "headline": "Dapatin 5K Followers dari Akun Mediagram Dalam Waktu 90 Hari dari 0.",
+            "subtitle": "Rahasia Membangun Akun Mediagram Profesional dan Mendapatkan Lebih dari 5K+ Followers dalam Waktu 90 Hari secara Organik.",
+            "description": "Cara tercepat membangun audiens loyal 5.000+ followers di akun Mediagram dalam waktu singkat.",
+            "price": 147000,
+            "originalPrice": 897000,
+            "cardFeatures": [
+                "Tutorial Ekslusif",
+                "Ebook Secret",
+                "Hook Viral"
+            ],
+            "features": [
+                "✅ 8+ Video Materi Ekslusif (Nilai Rp 1.500.000)",
+                "✅ Akses Tanpa Batas (Nilai Rp 1.000.000)"
+            ],
+            "rating": 4.9,
+            "reviews": 1247,
+            "students": 5840,
+            "successRate": 100,
+            "totalVideos": 8,
+            "image": "https://images.unsplash.com/photo-1611262588024-d12430b98920?w=400&h=300&fit=crop",
+            "problems": [
+                {
+                    "icon": "😩",
+                    "title": "Bingung Ide?",
+                    "desc": "Bingung mau bikin akun publik niche apa yang rame dan profitable."
+                },
+                {
+                    "icon": "🙈",
+                    "title": "Malu Tampil?",
+                    "desc": "Pengen jadi konten kreator tapi gak pede kalau harus tampil wajah."
+                },
+                {
+                    "icon": "⚠️",
+                    "title": "Takut Copyright?",
+                    "desc": "Takut akun kena banned gara-gara asal repost konten orang lain."
+                },
+                {
+                    "icon": "📉",
+                    "title": "Sepi Interaksi?",
+                    "desc": "Sudah rajin posting tapi followers dan likes segitu-gitu aja."
+                },
+                {
+                    "icon": "💸",
+                    "title": "Susah Cuan?",
+                    "desc": "Followers lumayan tapi bingung cara monetisasi akun publik."
+                },
+                {
+                    "icon": "⏳",
+                    "title": "Waktu Terbatas?",
+                    "desc": "Sibuk kerja/kuliah, gak punya banyak waktu buat ngonten."
+                }
+            ],
+            "modules": [
+                {
+                    "title": "Mindset & Foundation Akun Publik",
+                    "lessons": 8,
+                    "duration": "45 menit",
+                    "description": "Pondasi berpikir membangun aset digital jangka panjang lewat akun publik."
+                },
+                {
+                    "title": "Niche & Market Research",
+                    "lessons": 6,
+                    "duration": "35 menit",
+                    "description": "Cara riset topik yang ramai peminat dan mudah dimonetisasi."
+                },
+                {
+                    "title": "Content Sourcing Strategy",
+                    "lessons": 12,
+                    "duration": "1.5 jam",
+                    "description": "Teknik mencari bahan konten viral tanpa harus bikin sendiri dari nol."
+                },
+                {
+                    "title": "Viral Hooks & Caption Mastery",
+                    "lessons": 10,
+                    "duration": "1 jam",
+                    "description": "Rahasia caption dan hook yang memancing interaksi audiens."
+                },
+                {
+                    "title": "Hashtag & SEO Instagram",
+                    "lessons": 5,
+                    "duration": "30 menit",
+                    "description": "Cara agar akunmu mudah ditemukan orang lewat pencarian."
+                },
+                {
+                    "title": "Growth & Engagement Hacks",
+                    "lessons": 8,
+                    "duration": "50 menit",
+                    "description": "Trik mempercepat pertumbuhan followers secara organik."
+                },
+                {
+                    "title": "Copyright Safety Guide",
+                    "lessons": 7,
+                    "duration": "45 menit",
+                    "description": "Panduan aman main akun publik agar terhindar dari pelanggaran."
+                },
+                {
+                    "title": "Monetization Secrets",
+                    "lessons": 10,
+                    "duration": "1.5 jam",
+                    "description": "Cara mengubah followers menjadi sumber income (Paid Promote, dll)."
+                }
+            ],
+            "bonuses": [
+                {
+                    "icon": "📋",
+                    "title": "Panduan Bikin Template Konten Viral",
+                    "value": 500000
+                },
+                {
+                    "icon": "📚",
+                    "title": "E-book Algorithm Secret",
+                    "value": 350000
+                },
+                {
+                    "icon": "🎯",
+                    "title": "Swipe File 100+ Hook",
+                    "value": 250000
+                }
+            ],
+            "testimonials": [
+                {
+                    "name": "Andi Rahmat",
+                    "role": "Mediagram Owner",
+                    "avatar": "AR",
+                    "text": "Traffic naik signifikan! Akun baru 2 minggu udah tembus 5K followers organik.",
+                    "result": "+5K Organik",
+                    "rating": 5
+                },
+                {
+                    "name": "Dewi Sartika",
+                    "role": "Entrepreneur",
+                    "avatar": "DS",
+                    "text": "Berhasil bangun 3 akun publik sekaligus. Passive income ngalir terus!",
+                    "result": "Passive Income",
+                    "rating": 5
+                },
+                {
+                    "name": "Budi Wijaya",
+                    "role": "Digital Marketer",
+                    "avatar": "BW",
+                    "text": "Step-by-step banget. Pemula pun bisa langsung praktek dan dapat hasil.",
+                    "result": "+25K Followers",
+                    "rating": 5
+                },
+                {
+                    "name": "Rina Permata",
+                    "role": "Online Shop Owner",
+                    "avatar": "RP",
+                    "text": "Omzet toko naik 300% setelah apply strategi dari modul ini. Worth it!",
+                    "result": "3x Revenue",
+                    "rating": 5
+                },
+                {
+                    "name": "Fajar Shiddiq",
+                    "role": "Mahasiswa",
+                    "avatar": "FS",
+                    "text": "Awalnya ragu karena gaptek, ternyata penjelasannya mudah banget dipahami.",
+                    "result": "Mudah Dipahami",
+                    "rating": 5
+                },
+                {
+                    "name": "Siti Aminah",
+                    "role": "Ibu Rumah Tangga",
+                    "avatar": "SA",
+                    "text": "Bisa belajar kapan aja dan di mana aja. Sangat fleksibel buat IRT seperti saya.",
+                    "result": "Fleksibel",
+                    "rating": 5
+                }
+            ],
+            "faqs": [
+                {
+                    "q": "Apakah cocok untuk pemula yang belum punya followers?",
+                    "a": "Sangat cocok! Justru materi ini dirancang dari dasar. Banyak member yang mulai dari 0 followers dan berhasil tembus 5K-10K dalam beberapa bulan."
+                },
+                {
+                    "q": "Berapa lama akses materinya?",
+                    "a": "Akses TANPA BATAS WAKTU! Sekali beli, kamu bisa akses kapanpun dan dimanapun, termasuk update materi."
+                },
+                {
+                    "q": "Apakah harus keluar modal iklan?",
+                    "a": "Tidak! Semua strategi di sini adalah organic growth. Tidak perlu budget iklan sama sekali."
+                },
+                {
+                    "q": "Bagaimana cara aksesnya?",
+                    "a": "Setelah pembayaran, kamu akan langsung dapat akses ke member area untuk streaming semua video materi."
+                },
+                {
+                    "q": "Apakah materi bisa diakses lewat HP?",
+                    "a": "Bisa banget! Website kami mobile-friendly, jadi kamu bisa belajar dari HP, Tablet, atau Laptop kapanpun."
+                }
+            ],
+            "guaranteeDays": 0
+        },
+        {
+            "id": 2,
+            "slug": "google-maps-mastery",
+            "level": "Intermediate",
+            "instructor": {
+                "name": "Skylar Dokidis",
+                "avatar": "https://i.pravatar.cc/150?u=Skylar"
+            },
+            "tag": "⚡ Trending",
+            "tagColor": "#3b82f6",
+            "title": "Google Maps Mastery: Dominasi dan Optimasi Pencarian Lokal dengan Maps",
+            "category": "Digital Marketing",
+            "headline": "<span class=\"text-gradient\">Dominasi Peringkat #1</span> di Pencarian Lokal Menggunakan Google Maps",
+            "subtitle": "Dominasi Pencarian Lokal Menggunakan Google Maps Nangkring di Posisi Atas dengan Trafik Berkualitas!",
+            "description": "Cara tercepat dan terbukti untuk membuat bisnis Anda muncul di urutan teratas Google Maps dan menjangkau ribuan pelanggan potensial.",
+            "price": 127000,
+            "originalPrice": 497000,
+            "cardFeatures": [
+                "Dominasi Google Maps",
+                "Pencarian Lokal #1",
+                "Review Anti-Ghosting"
+            ],
+            "features": [
+                "✅ Strategi Dominasi Google Maps (Nilai Rp 1.500.000)",
+                "✅ Rahasia Local SEO #1 (Nilai Rp 1.000.000)",
+                "✅ Teknik Verifikasi Instan (Nilai Rp 500.000)",
+                "✅ Tips Review Anti-Ghosting (Nilai Rp 350.000)"
+            ],
+            "rating": 4.9,
+            "reviews": 1054,
+            "students": 4120,
+            "successRate": 94,
+            "totalVideos": 42,
+            "image": "https://images.unsplash.com/photo-1524661135-423995f22d0b?w=400&h=300&fit=crop",
+            "problems": [
+                {
+                    "icon": "🏚️",
+                    "title": "Bisnis 'Ghaib'?",
+                    "desc": "Toko fisik ada, tapi di Google Maps gak kelihatan. Pelanggan jadi nyasar ke tempat lain."
+                },
+                {
+                    "icon": "📉",
+                    "title": "Kalah Sama Tetangga?",
+                    "desc": "Kompetitor sebelah selalu muncul paling atas, padahal rating kamu lebih bagus."
+                },
+                {
+                    "icon": "⭐",
+                    "title": "Rating 'Ngenes'?",
+                    "desc": "Satu review bintang 1 merusak reputasi bertahun-tahun karena gak tahu cara handle-nya."
+                },
+                {
+                    "icon": "🔍",
+                    "title": "Titik Maps 'Ngaco'?",
+                    "desc": "Pelanggan mau datang tapi titik maps di tengah sawah. Akhirnya mereka batal beli."
+                },
+                {
+                    "icon": "💸",
+                    "title": "Review Sepi?",
+                    "desc": "Sudah rajin jualan tapi gak ada yang kasih review bintang 5. Pelanggan jadi ragu mampir."
+                },
+                {
+                    "icon": "🧩",
+                    "title": "Sulit Verifikasi?",
+                    "desc": "Kartu pos dari Google gak pernah sampai ke alamat? Gak tau cara munculin bisnis di Maps."
+                }
+            ],
+            "modules": [
+                {
+                    "title": "Fundamental Google Business Profile",
+                    "lessons": 5,
+                    "duration": "30 menit",
+                    "description": "Pahami cara kerja algoritma Google Maps terbaru agar bisnis Anda 'terdeteksi' radar pelanggan potensial secara instan."
+                },
+                {
+                    "title": "Panduan Mendaftar GBP Versi Terbaru (Anti-Gagal)",
+                    "lessons": 6,
+                    "duration": "45 menit",
+                    "description": "Langkah demi langkah mendaftarkan bisnis Anda dengan setelan yang benar agar cepat disetujui dan siap tayang."
+                },
+                {
+                    "title": "Bongkar Rahasia Verifikasi Google Maps",
+                    "lessons": 5,
+                    "duration": "40 menit",
+                    "description": "Strategi jitu melewati proses verifikasi yang rumit, baik via kartu pos maupun metode verifikasi instan lainnya."
+                },
+                {
+                    "title": "SEO Mastery for Google Business Profile",
+                    "lessons": 8,
+                    "duration": "1 jam",
+                    "description": "Teknik optimasi kata kunci lokal yang bikin bisnis Anda nangkring di urutan teratas saat orang mencari jasa/produk Anda."
+                },
+                {
+                    "title": "Cara Merawat Google Maps Agar Tetap Gacor dan Sehat",
+                    "lessons": 6,
+                    "duration": "45 menit",
+                    "description": "Cara merawat profil bisnis agar tidak 'mati suri', tetap aktif, dan terus konsisten mendatangkan pelanggan setiap hari."
+                },
+                {
+                    "title": "Rahasia Dominasi Market Lokal dengan Menggunakan Google Maps",
+                    "lessons": 7,
+                    "duration": "1 jam",
+                    "description": "Trik menguasai wilayah pasar lokal dan membuat bisnis Anda menjadi pilihan nomor satu dibandingkan kompetitor terdekat."
+                },
+                {
+                    "title": "Tips Jitu: Ulasan 'Anti-Hilang' di Google Maps",
+                    "lessons": 5,
+                    "duration": "30 menit",
+                    "description": "Rahasia menjaga rating bintang 5 dan teknik agar ulasan positif pelanggan tidak dihapus atau di-ghosting oleh Google."
+                }
+            ],
+            "bonuses": [
+                {
+                    "icon": "📹",
+                    "title": "Video Masterclass: Strategi Rank #1 Google Maps (Real Case Study)",
+                    "value": 750000
+                },
+                {
+                    "icon": "💬",
+                    "title": "The Review Blueprint: Template Balasan Ajaib untuk Closing",
+                    "value": 350000
+                },
+                {
+                    "icon": "📋",
+                    "title": "Audit Checklist: Rahasia 10 Menit Ranking #1",
+                    "value": 400000
+                },
+                {
+                    "icon": "🎯",
+                    "title": "AI Mastery Prompts: Optimasi GMB Kilat Pakai AI",
+                    "value": 550000
+                }
+            ],
+            "testimonials": [
+                {
+                    "name": "Budi Santoso",
+                    "role": "Owner Bengkel Mobil",
+                    "avatar": "BS",
+                    "text": "Bengkel saya sekarang muncul paling atas kalau orang cari 'Bengkel Terdekat'. Langsung banjir orderan ganti oli tiap hari!",
+                    "result": "Omzet +150%",
+                    "rating": 5
+                },
+                {
+                    "name": "Siti Rahma",
+                    "role": "Salon & Spa",
+                    "avatar": "SR",
+                    "text": "Dulu sepi banget, sekarang reservasi via Maps full terus. Padahal saya cuma pakai HP buat optimasinya!",
+                    "result": "Full Booked",
+                    "rating": 5
+                },
+                {
+                    "name": "Andi Wijaya",
+                    "role": "Cafe Owner",
+                    "avatar": "AW",
+                    "text": "Berkat teknik visual di modul ini, cafe saya jadi viral di areanya. Banyak yang datang karena lihat foto di Maps.",
+                    "result": "Viral Lokal",
+                    "rating": 5
+                },
+                {
+                    "name": "Rina Mulyani",
+                    "role": "Laundry Kiloan",
+                    "avatar": "RM",
+                    "text": "Gak nyangka jasa laundry bisa rank 1. Pelanggan baru berdatangan karena review bintang 5 yang makin banyak.",
+                    "result": "Top Rated",
+                    "rating": 5
+                },
+                {
+                    "name": "Dedi Kurniawan",
+                    "role": "Jasa Service AC",
+                    "avatar": "DK",
+                    "text": "Orderan membludak sampai saya harus cari teknisi baru. Modulnya daging banget, gampang dipraktekin!",
+                    "result": "Orderan Melimpah",
+                    "rating": 5
+                },
+                {
+                    "name": "Ferry Irawan",
+                    "role": "Property Agent",
+                    "avatar": "FI",
+                    "text": "Klien properti makin percaya karena profil bisnis saya terlihat sangat profesional dan legit di mata Google.",
+                    "result": "Trust & Sales",
+                    "rating": 5
+                }
+            ],
+            "faqs": [
+                {
+                    "q": "Apakah cocok untuk pemula yang gaptek?",
+                    "a": "Sangat cocok! Materi disusun step-by-step dari nol dengan bahasa yang mudah dipahami."
+                },
+                {
+                    "q": "Apakah butuh punya website sendiri?",
+                    "a": "Tidak wajib. Anda bisa memaksimalkan fitur bawaan Google Business Profile. Tapi jika ada website, akan dibahas cara integrasinya."
+                },
+                {
+                    "q": "Apakah teknik ini aman untuk jangka panjang?",
+                    "a": "100% Aman. Kami hanya mengajarkan strategi White Hat SEO yang sesuai dengan pedoman Google."
+                },
+                {
+                    "q": "Bisnis saya online saja, apakah bisa?",
+                    "a": "Bisa! Ada strategi khusus untuk 'Service Area Business' bagi Anda yang tidak memiliki kantor fisik untuk dikunjungi."
+                },
+                {
+                    "q": "Berapa lama sampai terlihat hasilnya?",
+                    "a": "Biasanya peningkatan impressi dan ranking mulai terlihat dalam 2-4 minggu setelah optimasi dilakukan secara konsisten."
+                }
+            ],
+            "guaranteeDays": 0
+        },
+        {
+            "id": 3,
+            "slug": "instagram-money-machine",
+            "level": "Basic",
+            "instructor": {
+                "name": "Giana Mango",
+                "avatar": "https://i.pravatar.cc/150?u=Giana"
+            },
+            "category": "Freelancing",
+            "tag": "💰 High ROI",
+            "tagColor": "#10b981",
+            "title": "Virtual Assistant Mastery: Rahasia Kerja Remote & Dibayar Dollar!",
+            "headline": "Jadilah <span class=\"text-gradient\">Virtual Assistant</span> Profesional Berpenghasilan Dollar",
+            "subtitle": "Panduan langkah demi langkah memulai karir VA dari nol hingga mendapatkan klien luar negeri.",
+            "description": "Jadilah Virtual Assistant profesional yang dicari klien global.",
+            "price": 297000,
+            "originalPrice": 2000000,
+            "cardFeatures": [
+                "Global VA Skills",
+                "Portfolio Hack",
+                "Komunitas VIP"
+            ],
+            "features": [
+                "Skill VA Dasar",
+                "Portfolio Builder",
+                "Upwork Strategy"
+            ],
+            "rating": 4.9,
+            "reviews": 654,
+            "students": 2180,
+            "successRate": 91,
+            "totalVideos": 40,
+            "image": "https://images.unsplash.com/photo-1579621970563-ebec7560ff3e?w=400&h=300&fit=crop",
+            "problems": [
+                {
+                    "icon": "💸",
+                    "title": "Followers Banyak, Income Nol?",
+                    "desc": "Punya ribuan followers tapi belum menghasilkan uang."
+                },
+                {
+                    "icon": "🤝",
+                    "title": "Susah Dapat Endorsement?",
+                    "desc": "Tidak tahu cara approach brand untuk kerjasama."
+                },
+                {
+                    "icon": "💵",
+                    "title": "Bingung Rate Card?",
+                    "desc": "Tidak tahu harus pasang harga berapa untuk jasa."
+                },
+                {
+                    "icon": "📦",
+                    "title": "Belum Punya Produk?",
+                    "desc": "Ingin jualan tapi tidak tahu harus mulai dari mana."
+                }
+            ],
+            "modules": [
+                {
+                    "title": "Monetization Mindset",
+                    "lessons": 5,
+                    "duration": "30 menit"
+                },
+                {
+                    "title": "Endorsement Mastery",
+                    "lessons": 10,
+                    "duration": "1.5 jam"
+                },
+                {
+                    "title": "Affiliate Marketing Strategy",
+                    "lessons": 8,
+                    "duration": "1 jam"
+                },
+                {
+                    "title": "Digital Product Creation",
+                    "lessons": 12,
+                    "duration": "2 jam"
+                },
+                {
+                    "title": "Pricing & Negotiation",
+                    "lessons": 6,
+                    "duration": "45 menit"
+                },
+                {
+                    "title": "Brand Partnership Blueprint",
+                    "lessons": 7,
+                    "duration": "50 menit"
+                }
+            ],
+            "bonuses": [
+                {
+                    "icon": "📧",
+                    "title": "Template Pitch Email Brand",
+                    "value": 400000
+                },
+                {
+                    "icon": "💰",
+                    "title": "Rate Card Calculator",
+                    "value": 300000
+                },
+                {
+                    "icon": "📊",
+                    "title": "Media Kit Template Pro",
+                    "value": 350000
+                },
+                {
+                    "icon": "📝",
+                    "title": "Contract Template Legal",
+                    "value": 500000
+                }
+            ],
+            "testimonials": [
+                {
+                    "name": "Mega Prasetyo",
+                    "role": "Lifestyle Blogger",
+                    "avatar": "MP",
+                    "text": "Dari Rp 0 sekarang konsisten dapat Rp 20jt/bulan dari endorsement!",
+                    "result": "Rp 20jt/bulan",
+                    "rating": 5
+                },
+                {
+                    "name": "Kevin Hartono",
+                    "role": "Tech Reviewer",
+                    "avatar": "KH",
+                    "text": "Berhasil deal dengan 5 brand besar dalam sebulan setelah apply strategi ini.",
+                    "result": "5 Brand Deals",
+                    "rating": 5
+                },
+                {
+                    "name": "Nadia Kusuma",
+                    "role": "Mom Influencer",
+                    "avatar": "NK",
+                    "text": "Produk digital pertama saya laku 200+ copies dalam launching!",
+                    "result": "200+ Sales",
+                    "rating": 5
+                }
+            ],
+            "faqs": [
+                {
+                    "q": "Minimal berapa followers untuk monetisasi?",
+                    "a": "Dengan strategi yang tepat, kamu bisa mulai monetisasi dari 1000 followers! Yang penting engagement rate tinggi."
+                },
+                {
+                    "q": "Apakah harus punya produk sendiri?",
+                    "a": "Tidak wajib! Kamu bisa mulai dari endorsement dan affiliate dulu tanpa produk sendiri."
+                },
+                {
+                    "q": "Berapa lama sampai dapat income pertama?",
+                    "a": "Banyak member dapat deal endorsement pertama dalam 2-4 minggu setelah menerapkan strategi."
+                },
+                {
+                    "q": "Apakah ada contoh rate card?",
+                    "a": "Ya! Kamu akan dapat template rate card dan formula menghitung harga yang tepat."
+                }
+            ],
+            "guaranteeDays": 14
+        },
+        {
+            "id": 4,
+            "slug": "threads-mastery",
+            "category": "Social Media",
+            "tag": "🎯 New",
+            "tagColor": "#f59e0b",
+            "title": "Threads Mastery: Rahasia Bangun Authority & Cuan dari Threads",
+            "headline": "Dominasi <span class=\"text-gradient\">Threads</span> — Bangun Authority & Cuan dari Nol",
+            "subtitle": "Strategi rahasia memenangkan algoritma Threads untuk membangun akun yang potensial dan menghasilkan.",
+            "description": "Cara Mudah Dapatin Cuan dari Threads",
+            "price": 99000,
+            "originalPrice": 347000,
+            "features": [
+                "45+ Video Lessons",
+                "Brand Templates",
+                "Bio Optimization",
+                "Storytelling"
+            ],
+            "rating": 4.7,
+            "reviews": 423,
+            "students": 1560,
+            "successRate": 85,
+            "totalVideos": 45,
+            "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=300&fit=crop",
+            "problems": [
+                {
+                    "icon": "🔇",
+                    "title": "Thread Sepi Reply?",
+                    "desc": "Udah cape nulis panjang, tapi yang liat cuma hitungan jari. Gak ada yang ninggalin jejak."
+                },
+                {
+                    "icon": "❓",
+                    "title": "Bingung Niche?",
+                    "desc": "Mau bangun authority tapi bingung topik apa yang 'Threads-able' dan disukai audiens."
+                },
+                {
+                    "icon": "📉",
+                    "title": "Kalah Saing?",
+                    "desc": "Kompetitor udah punya ribuan followers, kamu masih stuck di angka nol dan bingung mulai."
+                },
+                {
+                    "icon": "🧩",
+                    "title": "Algoritma 'Zonk'?",
+                    "desc": "Udah posting di jam sibuk tapi tetep gak masuk ke 'For You' page orang lain."
+                },
+                {
+                    "icon": "💸",
+                    "title": "Gak Bisa Cuan?",
+                    "desc": "Cuma dapet like doang tapi gak tau cara ubah interaksi jadi penghasilan nyata."
+                },
+                {
+                    "icon": "🫣",
+                    "title": "Malu Sharing?",
+                    "desc": "Mau sharing keahlian tapi takut di-judge atau dibilang sok tau sama orang asing."
+                }
+            ],
+            "modules": [
+                {
+                    "title": "Brand Foundation & Identity",
+                    "lessons": 8,
+                    "duration": "1 jam"
+                },
+                {
+                    "title": "Niche Positioning Strategy",
+                    "lessons": 6,
+                    "duration": "45 menit"
+                },
+                {
+                    "title": "Story-driven Content",
+                    "lessons": 10,
+                    "duration": "1.5 jam"
+                },
+                {
+                    "title": "Authority Content Pillars",
+                    "lessons": 8,
+                    "duration": "1 jam"
+                },
+                {
+                    "title": "Community Trust Building",
+                    "lessons": 7,
+                    "duration": "50 menit"
+                },
+                {
+                    "title": "Media & PR Strategy",
+                    "lessons": 6,
+                    "duration": "40 menit"
+                }
+            ],
+            "bonuses": [
+                {
+                    "icon": "🎨",
+                    "title": "Brand Identity Workbook",
+                    "value": 300000
+                },
+                {
+                    "icon": "✍️",
+                    "title": "Bio Template Collection",
+                    "value": 200000
+                },
+                {
+                    "icon": "📖",
+                    "title": "Storytelling Framework",
+                    "value": 250000
+                },
+                {
+                    "icon": "🎙️",
+                    "title": "Interview Question Bank",
+                    "value": 150000
+                }
+            ],
+            "testimonials": [
+                {
+                    "name": "Dr. Ahmad Rizki",
+                    "role": "Health Educator",
+                    "avatar": "AR",
+                    "text": "Sekarang diundang jadi speaker di berbagai event kesehatan!",
+                    "result": "10+ Speaking Gigs",
+                    "rating": 5
+                },
+                {
+                    "name": "Fitria Wulandari",
+                    "role": "Business Coach",
+                    "avatar": "FW",
+                    "text": "Client coaching saya naik 3x lipat setelah repositioning brand.",
+                    "result": "3x More Clients",
+                    "rating": 5
+                },
+                {
+                    "name": "Reza Mahendra",
+                    "role": "Finance Expert",
+                    "avatar": "RM",
+                    "text": "Berhasil featured di 3 media nasional dalam 2 bulan!",
+                    "result": "3 Media Features",
+                    "rating": 5
+                }
+            ],
+            "faqs": [
+                {
+                    "q": "Saya introvert, apakah bisa membangun personal brand?",
+                    "a": "Tentu! Personal branding bukan tentang menjadi ekstrovert, tapi tentang authentic sharing value yang Anda miliki."
+                },
+                {
+                    "q": "Apakah harus tampil di depan kamera?",
+                    "a": "Tidak wajib! Ada banyak strategi personal branding tanpa harus sering tampil di kamera."
+                },
+                {
+                    "q": "Berapa lama untuk membangun authority?",
+                    "a": "Dengan konsistensi, Anda bisa mulai dikenal sebagai expert dalam 3-6 bulan."
+                },
+                {
+                    "q": "Niche saya sangat spesifik, apakah masih relevan?",
+                    "a": "Justru niche spesifik lebih mudah untuk membangun authority karena kompetisi lebih sedikit!"
+                }
+            ],
+            "guaranteeDays": 0
+        },
+        {
+            "id": 5,
+            "slug": "personal-branding-mastery",
+            "category": "Branding",
+            "tag": "👑 Premium",
+            "tagColor": "#8b5cf6",
+            "title": "Personal Branding Mastery: Bangun Audiens Organik yang Loyal & Menghasilkan",
+            "headline": "Bangun <span class=\"text-gradient\">Personal Brand</span> yang Loyal & Menghasilkan",
+            "subtitle": "Cara termudah membangun persona digital yang dipercaya audiens tanpa perlu jadi ahli marketing atau jago desain.",
+            "description": "Kuasai strategi membangun brand personal yang kuat, dipercaya, dan mendatangkan profit secara organik.",
+            "price": 197000,
+            "originalPrice": 497000,
+            "features": [
+                "✅ Framework Brand Identity (Rp 500.000)",
+                "✅ Strategi Content Pillar (Rp 350.000)",
+                "✅ Teknik Storytelling & Hook (Rp 400.000)",
+                "✅ Cara Monetisasi Brand (Rp 600.000)"
+            ],
+            "rating": 4.9,
+            "reviews": 312,
+            "students": 980,
+            "successRate": 88,
+            "totalVideos": 35,
+            "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=400&h=300&fit=crop",
+            "problems": [
+                {
+                    "icon": "👤",
+                    "title": "Gak Punya Ciri Khas?",
+                    "desc": "Merasa akunmu 'biasa aja' dan gak ada bedanya sama ribuan kreator lain di luar sana."
+                },
+                {
+                    "icon": "🎭",
+                    "title": "Krisis Identitas?",
+                    "desc": "Bingung harus posting apa. Kebanyakan topik malah bikin audiens bingung kamu ahli di bidang apa."
+                },
+                {
+                    "icon": "📉",
+                    "title": "Audiens Gak Loyal?",
+                    "desc": "Followers nambah tapi interaksi sepi. Orang cuma follow tapi gak bener-bener kenal sama kamu."
+                },
+                {
+                    "icon": "🤔",
+                    "title": "Takut Menjual?",
+                    "desc": "Mau jualan produk/jasa sendiri tapi takut dikira 'jualan mulu' atau gak dipercaya audiens."
+                },
+                {
+                    "icon": "🎨",
+                    "title": "Desain Berantakan?",
+                    "desc": "Gak jago desain tapi pengen feed kelihatan estetik dan profesional seperti brand besar."
+                },
+                {
+                    "icon": "⏳",
+                    "title": "Capek Ngonten?",
+                    "desc": "Setiap hari mikir konten tapi gak ada hasil yang nyata (gak jadi cuan atau authority)."
+                }
+            ],
+            "modules": [
+                {
+                    "title": "Brand Discovery: Menemukan 'Uniqueness' Kamu",
+                    "lessons": 6,
+                    "duration": "50 menit",
+                    "description": "Gali potensi dirimu dan tentukan positioning yang sulit ditiru kompetitor."
+                },
+                {
+                    "title": "Visual Branding: Estetik Tanpa Ribet",
+                    "lessons": 5,
+                    "duration": "40 menit",
+                    "description": "Cara nentukan warna, font, dan template yang bikin orang langsung tau itu 'postingan kamu'."
+                },
+                {
+                    "title": "Storytelling Mastery: Menangkan Hati Audiens",
+                    "lessons": 8,
+                    "duration": "1.2 jam",
+                    "description": "Teknik bercerita yang bikin audiens merasa relate dan mulai percaya sama kamu."
+                },
+                {
+                    "title": "Content Pillar Strategy: Anti Kehabisan Ide",
+                    "lessons": 7,
+                    "duration": "1 jam",
+                    "description": "Bangun pondasi konten yang konsisten dan membangun authority setiap harinya."
+                },
+                {
+                    "title": "Monetization Blueprint: Ubah Brand jadi Cuan",
+                    "lessons": 9,
+                    "duration": "1.5 jam",
+                    "description": "Langkah-langkah meluncurkan produk/jasa pertama kamu lewat personal brand."
+                }
+            ],
+            "bonuses": [
+                {
+                    "icon": "�",
+                    "title": "Worksheet Pemetaan Brand Identity",
+                    "value": 250000
+                },
+                {
+                    "icon": "✍️",
+                    "title": "30 Hari Prompt Kalender Konten Branding",
+                    "value": 300000
+                },
+                {
+                    "icon": "🎨",
+                    "title": "Template Feed Premium (Editable di Canva)",
+                    "value": 200000
+                }
+            ],
+            "testimonials": [
+                {
+                    "name": "Aris Pratama",
+                    "role": "Financial Planner",
+                    "avatar": "AP",
+                    "text": "Dulu sepi banget, sekarang dapet klien rutin dari Instagram karena branding yang bener!",
+                    "result": "Authority Terbentuk",
+                    "rating": 5
+                },
+                {
+                    "name": "Sarah Wijaya",
+                    "role": "Social Media Consultant",
+                    "avatar": "SW",
+                    "text": "Modul storytelling-nya gila banget. Engagement rate naik 5% dalam seminggu!",
+                    "result": "High Engagement",
+                    "rating": 5
+                }
+            ],
+            "faqs": [
+                {
+                    "q": "Saya belum punya skill ahli, apakah bisa?",
+                    "a": "Bisa! Personal branding adalah tentang mendokumentasikan perjalanan belajarmu juga."
+                },
+                {
+                    "q": "Berapa lama brand saya mulai dikenal?",
+                    "a": "Dengan strategi ini, biasanya authority mulai terlihat dalam 30-60 hari konsisten."
+                },
+                {
+                    "q": "Apakah butuh kamera mahal?",
+                    "a": "Tidak! Cukup pakai HP kamu. Kami ajarkan optimasi apa adanya tapi tetap profesional."
+                }
+            ],
+            "guaranteeDays": 0
+        },
+        {
+            "id": 6,
+            "slug": "facebook-pro-mastery",
+            "category": "Social Media",
+            "tag": "💰 Cuan Dollar",
+            "tagColor": "#1877f2",
+            "title": "Facebook Pro Mastery: Rahasia Mendapatkan $25 Pertama dari Facebook Pro",
+            "headline": "Tembus <span class=\"text-gradient\">$25 Pertama</span> Secara Konsisten dari Facebook Pro",
+            "subtitle": "Gak perlu jago IT atau punya ribuan follower. Cukup optimasi profil dan posting konten yang tepat untuk mulai dapat cuan dollar.",
+            "description": "Cara termudah mendapatkan penghasilan dollar dari Facebook Professional (Fb Pro) untuk pemula.",
+            "price": 147000,
+            "originalPrice": 497000,
+            "features": [
+                "✅ Tutorial Aktifkan Mode Profesional",
+                "✅ Strategi Lolos Review Monetisasi",
+                "✅ Cara Cepat Kejar 5.000 Follower",
+                "✅ Teknik Konten Reels Viral Organik"
+            ],
+            "rating": 4.8,
+            "reviews": 342,
+            "students": 1580,
+            "successRate": 88,
+            "totalVideos": 30,
+            "image": "https://images.unsplash.com/photo-1562577309-4932fdd64cd1?w=400&h=300&fit=crop",
+            "problems": [
+                {
+                    "icon": "📈",
+                    "title": "Postingan Sepi?",
+                    "desc": "Sudah rajin posting tapi jangkauan mentok di situ-situ saja. Video Reels cuma ditonton ratusan orang."
+                },
+                {
+                    "icon": "⚙️",
+                    "title": "Gak Tau Fitur Ads?",
+                    "desc": "Bingung cara mengaktifkan Mode Profesional dan fitur monetisasi yang benar di akun pribadi."
+                },
+                {
+                    "icon": "💸",
+                    "title": "Konten Gak Cair?",
+                    "desc": "Capek ngonten tiap hari tapi saldo di dashboard tetep $0.00. Gak tau cara dapet $25 pertama."
+                },
+                {
+                    "icon": "⚠️",
+                    "title": "Takut Restricted?",
+                    "desc": "Ngeri akun kena restricted atau pelanggaran hak cipta karena salah pilih musik atau re-upload."
+                },
+                {
+                    "icon": "👥",
+                    "title": "Susah Follower?",
+                    "desc": "Gak tau cara dapet 5.000 follower pertama secara organik tanpa beli-beli panel yang bahaya."
+                },
+                {
+                    "icon": "📊",
+                    "title": "Gaptek Dashboard?",
+                    "desc": "Pusing liat grafik dan data di dashboard profesional. Gak tau mana yang harus dioptimasi."
+                }
+            ],
+            "modules": [
+                {
+                    "title": "FB Pro Fundamental: Aktifkan Potensi Cuan",
+                    "lessons": 6,
+                    "duration": "45 menit",
+                    "description": "Langkah awal mengaktifkan mode profesional tanpa merusak akun pribadi Anda."
+                },
+                {
+                    "title": "Content Viral Strategy: Jangkauan Luas",
+                    "lessons": 8,
+                    "duration": "1 jam",
+                    "description": "Rahasia algoritma Reels Facebook agar kontenmu masuk ke beranda orang yang belum follow."
+                },
+                {
+                    "title": "Monetization Setup: Cairkan Dollar",
+                    "lessons": 5,
+                    "duration": "40 menit",
+                    "description": "Setting akun pembayaran (payout) yang benar agar dollar masuk ke rekening bank lokal."
+                },
+                {
+                    "title": "Algorithm Hack: Menangkan Feed FB",
+                    "lessons": 7,
+                    "duration": "55 menit",
+                    "description": "Cara membuat konten yang disukai algoritma Facebook terbaru tahun 2024-2025."
+                },
+                {
+                    "title": "Safety & Compliance: Bebas Pelanggaran",
+                    "lessons": 4,
+                    "duration": "30 menit",
+                    "description": "Tips menjaga keamanan akun agar gajian lancar setiap bulan tanpa takut kena banned."
+                }
+            ],
+            "bonuses": [
+                {
+                    "icon": "🎵",
+                    "title": "Daftar Musik Bebas Copyright (Safe for Ads)",
+                    "value": 200000
+                },
+                {
+                    "icon": "🔥",
+                    "title": "Cheat Sheet 50+ Ide Konten FB Pro Viral",
+                    "value": 300000
+                },
+                {
+                    "icon": "✍️",
+                    "title": "Template Deskripsi & Hook FB Pro",
+                    "value": 150000
+                }
+            ],
+            "testimonials": [
+                {
+                    "name": "Rahmat Hidayat",
+                    "role": "Content Creator",
+                    "avatar": "RH",
+                    "text": "Berhasil dapet $25 pertama dalam waktu kurang dari sebulan! Materinya benar-benar daging.",
+                    "result": "Earned $52.40",
+                    "rating": 5
+                },
+                {
+                    "name": "Siti Maryam",
+                    "role": "Ibu Rumah Tangga",
+                    "avatar": "SM",
+                    "text": "Dulu cuma main FB buat scroll doang, sekarang bisa dapet tambahan buat dapur dari Reels!",
+                    "result": "Gajian Pertama",
+                    "rating": 5
+                },
+                {
+                    "name": "Andri Wijaya",
+                    "role": "Freelancer",
+                    "avatar": "AW",
+                    "text": "Paling suka bagian safety guide-nya, jadi gak takut lagi eksperimen bikin konten viral.",
+                    "result": "5k Followers",
+                    "rating": 5
+                }
+            ],
+            "faqs": [
+                {
+                    "q": "Apakah perlu punya halaman/fanpage?",
+                    "a": "Tidak harus! Kami fokus pada akun personal yang diaktifkan mode profesionalnya."
+                },
+                {
+                    "q": "Berapa minimal follower untuk mulai?",
+                    "a": "Siapapun bisa mulai! Kami akan ajarkan cara dapet 5.000 follower pertama untuk syarat monetisasi."
+                },
+                {
+                    "q": "Apakah materi ini selalu diperbarui?",
+                    "a": "Ya! Setiap ada perubahan aturan dari Meta/Facebook, materi akan kami update secara berkala."
+                },
+                {
+                    "q": "Bagaimana proses pencairan uangnya?",
+                    "a": "Akan dijelaskan detail cara setting bank lokal (BRI, BCA, Mandiri, dll) langsung di dalam member area."
+                }
+            ],
+            "guaranteeDays": 0
+        }
+    ]
+}
