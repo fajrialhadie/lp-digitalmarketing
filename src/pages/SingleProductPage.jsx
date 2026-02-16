@@ -578,29 +578,29 @@ const SingleProductPage = () => {
                                 </div>
                             </div>
 
-                            <div className="order-box">
-                                <div className="order-price">
-                                    <span className="order-original">Rp {formatPrice(product.originalPrice)}</span>
-                                    <span className="order-current">Rp {formatPrice(product.price)}</span>
-                                    <div className="order-save">
-                                        HEMAT Rp {formatPrice(product.originalPrice - product.price)} ({discount}%)
+                            <div className="order-box order-box--dark">
+                                <div className="order-badge-prelaunch">
+                                    <span className="prelaunch-dot"></span>
+                                    LIMITED PRELAUNCH OFFER
+                                </div>
+
+                                <div className="order-price-row">
+                                    <span className="order-current-dark">Rp{formatPrice(product.price)}</span>
+                                    <div className="order-price-meta">
+                                        <span className="order-original-dark">Rp{formatPrice(product.originalPrice)}</span>
+                                        <span className="order-hemat-dark">HEMAT {discount}% HARI INI!</span>
                                     </div>
                                 </div>
 
-                                <div className="order-timer">
-                                    <span>Harga naik dalam:</span>
-                                    <div className="timer-display">
-                                        {formatTime(timeLeft.hours)}:{formatTime(timeLeft.minutes)}:{formatTime(timeLeft.seconds)}
-                                    </div>
+                                <div className="order-countdown-row">
+                                    <span className="countdown-icon">⏱</span>
+                                    <span className="countdown-label">DISKON SEGERA HABIS:</span>
+                                    <span className="countdown-value">{formatTime(timeLeft.hours)} : {formatTime(timeLeft.minutes)}</span>
                                 </div>
 
-                                <a href="#" className="order-button">
-                                    🚀 AKSES SEKARANG - Rp {formatPrice(product.price)}
+                                <a href="#" className="order-button-dark">
+                                    🚀 Amankan Slot Prelaunch →
                                 </a>
-
-                                <div className="order-trust">
-                                    <span>🔒 Pembayaran Aman & Terenkripsi</span>
-                                </div>
                             </div>
                         </div>
                     </div>
