@@ -539,7 +539,7 @@ const SingleProductPage = () => {
             </section >
 
             {/* Final CTA Section */}
-            <section id="order" className={`sp-final-cta ${product.slug === 'google-maps-mastery' ? 'sp-final-cta--gmaps' : ''} ${product.slug === 'facebook-pro-mastery' ? 'sp-final-cta--fb' : ''}`}>
+            <section id="order" className={`sp-final-cta ${product.slug === 'google-maps-mastery' ? 'sp-final-cta--gmaps' : ''} ${product.slug === 'facebook-pro-mastery' ? 'sp-final-cta--fb' : ''}`} style={{ '--theme-color': product.themeColor || '#2563eb' }}>
                 <div className="container">
                     <div className="final-cta-box">
                         <div className="final-cta-header">
@@ -579,27 +579,33 @@ const SingleProductPage = () => {
                             </div>
 
                             <div className="order-box order-box--dark">
-                                <div className="order-badge-prelaunch">
-                                    <span className="prelaunch-dot"></span>
-                                    LIMITED PRELAUNCH OFFER
+                                <div className="timer-pill-red">
+                                    <span className="timer-icon">🕒</span>
+                                    <span className="timer-text">Penawaran berakhir dalam:</span>
+                                    <span className="timer-countdown">
+                                        {formatTime(timeLeft.hours)} : {formatTime(timeLeft.minutes)} : {formatTime(timeLeft.seconds)}
+                                    </span>
                                 </div>
 
-                                <div className="order-price-row">
-                                    <span className="order-current-dark">Rp{formatPrice(product.price)}</span>
-                                    <div className="order-price-meta">
-                                        <span className="order-original-dark">Rp{formatPrice(product.originalPrice)}</span>
-                                        <span className="order-hemat-dark">HEMAT {discount}% HARI INI!</span>
+                                <div className="price-display-wrapper">
+                                    <div className="price-header">
+                                        <span className="price-strike">Rp{formatPrice(product.originalPrice)}</span>
+                                        <span className="save-badge-pill">HEMAT {discount}%</span>
+                                    </div>
+                                    <div className="price-main">
+                                        <span className="currency">Rp</span>
+                                        <span className="major">{Math.floor(product.price / 1000)}</span>
+                                        <span className="minor">.000</span>
+                                    </div>
+                                    <div className="price-subtext">
+                                        Bayar sekali, Akses Tanpa Batas
                                     </div>
                                 </div>
 
-                                <div className="order-countdown-row">
-                                    <span className="countdown-icon">⏱</span>
-                                    <span className="countdown-label">DISKON SEGERA HABIS:</span>
-                                    <span className="countdown-value">{formatTime(timeLeft.hours)} : {formatTime(timeLeft.minutes)}</span>
-                                </div>
 
-                                <a href="#" className="order-button-dark">
-                                    🚀 Amankan Slot Prelaunch →
+
+                                <a href="#" className="order-button-gradient">
+                                    🚀 Join Kelas Sekarang →
                                 </a>
                             </div>
                         </div>

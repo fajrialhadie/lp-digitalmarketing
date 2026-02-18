@@ -12,8 +12,6 @@
             "tag": "🔥 Best Seller",
             "tagColor": "#2563eb",
             "title": "Mediagram Mastery: Dapatin 5K+ Followers dalam 90 Hari secara Organik",
-            "headline": "Dapatin 5K Followers dari Akun Mediagram Dalam Waktu 90 Hari dari 0.",
-            "subtitle": "Rahasia Membangun Akun Mediagram Profesional dan Mendapatkan Lebih dari 5K+ Followers dalam Waktu 90 Hari secara Organik.",
             "description": "Cara tercepat membangun audiens loyal 5.000+ followers di akun Mediagram dalam waktu singkat.",
             "price": 147000,
             "originalPrice": 897000,
@@ -26,15 +24,26 @@
                 "✅ 8+ Video Materi Ekslusif (Nilai Rp 1.500.000)",
                 "✅ Akses Tanpa Batas (Nilai Rp 1.000.000)"
             ],
+            "headline": "Dapatin <span class=\"text-secondary\">5K Followers</span> dari Akun Mediagram <br /> Hanya dalam <span class=\"text-gradient\">90 Hari Mulai dari 0.</span>",
+            "subtitle": "Rahasia Membangun Akun Mediagram Profesional dan Mendapatkan Lebih dari 5K+ Followers dalam Waktu 90 Hari secara Organik.",
+            "heroBadges": [
+                "Akses Tanpa Batas",
+                "Materi Terupdate",
+                "Berdasarkan Study Kasus"
+            ],
+            "ctaTitle": "Mulai Bangun Aset Digital Mediagram & Raih 10K Followers Sekarang!",
+            "ctaPackageHeader": "Keuntungan yang Didapatkan:",
             "rating": 4.9,
             "reviews": 1247,
             "students": 5840,
             "successRate": 100,
             "totalVideos": 8,
+            "themeColor": "#2563eb",
+            "pricingHeadline": "Mulai Bangun Aset Digital & Bongkar Rahasia 10K Followers Sekarang!",
             "image": "https://images.unsplash.com/photo-1611262588024-d12430b98920?w=400&h=300&fit=crop",
             "problems": [
                 {
-                    "icon": "😩",
+                    "icon": "📋",
                     "title": "Bingung Ide?",
                     "desc": "Bingung mau bikin akun publik niche apa yang rame dan profitable."
                 },
@@ -217,8 +226,6 @@
             "tagColor": "#3b82f6",
             "title": "Google Maps Mastery: Dominasi dan Optimasi Pencarian Lokal dengan Maps",
             "category": "Digital Marketing",
-            "headline": "<span class=\"text-gradient\">Dominasi Peringkat #1</span> di Pencarian Lokal Menggunakan Google Maps",
-            "subtitle": "Dominasi Pencarian Lokal Menggunakan Google Maps Nangkring di Posisi Atas dengan Trafik Berkualitas!",
             "description": "Cara tercepat dan terbukti untuk membuat bisnis Anda muncul di urutan teratas Google Maps dan menjangkau ribuan pelanggan potensial.",
             "price": 127000,
             "originalPrice": 497000,
@@ -233,11 +240,21 @@
                 "✅ Teknik Verifikasi Instan (Nilai Rp 500.000)",
                 "✅ Tips Review Anti-Ghosting (Nilai Rp 350.000)"
             ],
+            "headline": "<span class=\"text-gradient\">Dominasi Pencarian Lokal</span> Menggunakan Google Maps di <span class=\"text-gradient\">Halaman #1 Google</span>",
+            "subtitle": "Rahasia Mendominasi Pencarian Lokal Agar Google Maps Tampil Diposisi Teratas Google, Potensi Menjangkau Ribuan Calon Customer Potensial!",
+            "heroBadges": [
+                "Akses Tanpa Batas",
+                "Materi Terupdate",
+                "Berdasarkan Study Kasus"
+            ],
+            "ctaTitle": "Amankan Slot Promo & Kuasai Pasar Lokal Sekarang!",
             "rating": 4.9,
             "reviews": 1054,
             "students": 4120,
             "successRate": 94,
             "totalVideos": 42,
+            "themeColor": "#10b981",
+            "pricingHeadline": "Dominasi Pencarian Lokal & Tangkap Ribuan Customer Baru!",
             "image": "https://images.unsplash.com/photo-1524661135-423995f22d0b?w=400&h=300&fit=crop",
             "problems": [
                 {
@@ -438,11 +455,19 @@
                 "Portfolio Builder",
                 "Upwork Strategy"
             ],
+            "heroBadges": [
+                "Akses Selamanya",
+                "Update Gratis",
+                "Group Support"
+            ],
+            "ctaTitle": "Mulai Transformasi-mu Sekarang!",
             "rating": 4.9,
             "reviews": 654,
             "students": 2180,
             "successRate": 91,
             "totalVideos": 40,
+            "themeColor": "#3b82f6",
+            "pricingHeadline": "Jadi Virtual Assistant Global & Hasilkan Dollar dari Rumah!",
             "image": "https://images.unsplash.com/photo-1579621970563-ebec7560ff3e?w=400&h=300&fit=crop",
             "problems": [
                 {
@@ -573,8 +598,6 @@
             "tag": "🎯 New",
             "tagColor": "#f59e0b",
             "title": "Threads Mastery: Rahasia Bangun Authority & Cuan dari Threads",
-            "headline": "Dominasi <span class=\"text-gradient\">Threads</span> — Bangun Authority & Cuan dari Nol",
-            "subtitle": "Strategi rahasia memenangkan algoritma Threads untuk membangun akun yang potensial dan menghasilkan.",
             "description": "Cara Mudah Dapatin Cuan dari Threads",
             "price": 99000,
             "originalPrice": 347000,
@@ -584,11 +607,21 @@
                 "Bio Optimization",
                 "Storytelling"
             ],
+            "headline": "Kuasai Algoritma <br /><span class=\"text-secondary\">Threads Mastery</span>",
+            "subtitle": "Strategi rahasia memenangkan algoritma Threads untuk membangun akun yang potensial dan menghasilkan.",
+            "heroBadges": [
+                "Akses Tanpa Batas",
+                "Materi Terupdate",
+                "Berdasarkan Study Kasus"
+            ],
+            "ctaTitle": "Kuasai Algoritma Threads & Bangun Authority Sekarang!",
             "rating": 4.7,
             "reviews": 423,
             "students": 1560,
             "successRate": 85,
             "totalVideos": 45,
+            "themeColor": "#0f172a",
+            "pricingHeadline": "Kuasai Algoritma Threads & Bangun Authority Sekarang!",
             "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=300&fit=crop",
             "problems": [
                 {
@@ -729,8 +762,6 @@
             "tag": "👑 Premium",
             "tagColor": "#8b5cf6",
             "title": "Personal Branding Mastery: Bangun Audiens Organik yang Loyal & Menghasilkan",
-            "headline": "Bangun <span class=\"text-gradient\">Personal Brand</span> yang Loyal & Menghasilkan",
-            "subtitle": "Cara termudah membangun persona digital yang dipercaya audiens tanpa perlu jadi ahli marketing atau jago desain.",
             "description": "Kuasai strategi membangun brand personal yang kuat, dipercaya, dan mendatangkan profit secara organik.",
             "price": 197000,
             "originalPrice": 497000,
@@ -740,11 +771,21 @@
                 "✅ Teknik Storytelling & Hook (Rp 400.000)",
                 "✅ Cara Monetisasi Brand (Rp 600.000)"
             ],
+            "headline": "<span class=\"text-gradient\">Bangun Authority &</span> <br /><span class=\"text-secondary\">Personal Branding Mastery</span>",
+            "subtitle": "Cara termudah membangun persona digital yang dipercaya audiens tanpa perlu jadi ahli marketing atau jago desain.",
+            "heroBadges": [
+                "Akses Tanpa Batas",
+                "Materi Terupdate",
+                "Berdasarkan Study Kasus"
+            ],
+            "ctaTitle": "Mulai Bangun Authority & Personal Brand yang Menghasilkan Sekarang!",
             "rating": 4.9,
             "reviews": 312,
             "students": 980,
             "successRate": 88,
             "totalVideos": 35,
+            "themeColor": "#8b5cf6",
+            "pricingHeadline": "Bangun Personal Brand yang Kuat & Menghasilkan!",
             "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=400&h=300&fit=crop",
             "problems": [
                 {
@@ -812,7 +853,7 @@
             ],
             "bonuses": [
                 {
-                    "icon": "�",
+                    "icon": "",
                     "title": "Worksheet Pemetaan Brand Identity",
                     "value": 250000
                 },
@@ -868,8 +909,6 @@
             "tag": "💰 Cuan Dollar",
             "tagColor": "#1877f2",
             "title": "Facebook Pro Mastery: Rahasia Mendapatkan $25 Pertama dari Facebook Pro",
-            "headline": "Tembus <span class=\"text-gradient\">$25 Pertama</span> Secara Konsisten dari Facebook Pro",
-            "subtitle": "Gak perlu jago IT atau punya ribuan follower. Cukup optimasi profil dan posting konten yang tepat untuk mulai dapat cuan dollar.",
             "description": "Cara termudah mendapatkan penghasilan dollar dari Facebook Professional (Fb Pro) untuk pemula.",
             "price": 147000,
             "originalPrice": 497000,
@@ -879,11 +918,21 @@
                 "✅ Cara Cepat Kejar 5.000 Follower",
                 "✅ Teknik Konten Reels Viral Organik"
             ],
+            "headline": "Raih $25 Pertama Dari <br /><span class=\"text-secondary\">Facebook Pro Mastery</span>",
+            "subtitle": "Gak perlu jago IT atau punya ribuan follower. Cukup optimasi profil dan posting konten yang tepat untuk mulai dapat cuan dollar.",
+            "heroBadges": [
+                "Akses Tanpa Batas",
+                "Materi Terupdate",
+                "Berdasarkan Study Kasus"
+            ],
+            "ctaTitle": "Jadilah orang Pertama yang Mendapatkan $25 dari Facebook Pro!",
             "rating": 4.8,
             "reviews": 342,
             "students": 1580,
             "successRate": 88,
             "totalVideos": 30,
+            "themeColor": "#1877f2",
+            "pricingHeadline": "Tingkatkan Penghasilan Dollar Anda dari Facebook Pro Sekarang!",
             "image": "https://images.unsplash.com/photo-1562577309-4932fdd64cd1?w=400&h=300&fit=crop",
             "problems": [
                 {
